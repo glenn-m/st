@@ -102,8 +102,6 @@ unsigned int tabspaces = 8;
 #define nord14 "#A3BE8C"
 #define nord15 "#B48EAD"
 
- 
-
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
 	/* 8 normal colors */
